@@ -1,0 +1,19 @@
+{
+  "name": "hotelweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vjvibhanshu/Hotelweb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vjvibhanshu/Hotelweb/issues"
+  },
+  "homepage": "https://github.com/vjvibhanshu/Hotelweb#readme"
+}
