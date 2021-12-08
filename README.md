@@ -2,4 +2,4 @@
 
 Run Index.html
 
-feel free to reuse and add raise PR if req.
+Feel free to reuse and raise PR if req.
